@@ -1030,7 +1030,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-	margin-bottom: 3.6rem;
+	margin-bottom: 1.6rem;
 	position: relative;
 }
 .section-intro h1 {
@@ -1362,7 +1362,7 @@ header .logo a {
 	content: "|";
 	text-align: center;
 	display: inline-block;
-	padding: 0 8px 0 14px;
+	padding: 0 8px 0 1px;
 	color: rgba(255, 255, 255, 0.3);
 }
 .intro-content .intro-position span:first-child::before {
@@ -1622,7 +1622,7 @@ header .logo a {
  */
 #resume {
 	padding-top: 8rem;
-	padding-bottom: 7rem;
+	padding-bottom: 1rem;
 }
 
 #resume .resume-header {
